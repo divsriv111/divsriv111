@@ -1,8 +1,9 @@
 <h3 align="center">
   Welcome to Divyanshu's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  [![Visits Badge](https://badges.pufler.dev/visits/divsriv111/divsriv111)](https://badges.pufler.dev/visits/divsriv111/divsriv111)
 </h3>
+
+[![Visits Badge](https://badges.pufler.dev/visits/divsriv111/divsriv111)](https://badges.pufler.dev/visits/divsriv111/divsriv111)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
