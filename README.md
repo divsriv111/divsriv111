@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+web+and+app+developer;A+keen+learner;Always+trying+something+new)](https://git.io/typing-svg)
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/&lines=Full-stack+web+and+app+developer;A+keen+learner;Always+trying+something+new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <br/>
@@ -83,14 +83,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Github stats
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divsriv111&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divyanshu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=divsriv111&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divsriv111&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
