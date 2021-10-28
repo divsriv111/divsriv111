@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-[Typing SVG](https://readme-typing-svg.herokuapp.com/&lines=Full-stack+web+and+app+developer;A+curious+mind;Always+trying+something+new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+web+and+app+developer;A+keen+learner;Always+trying+something+new)](https://git.io/typing-svg)
 </p>
 
 <br/>
@@ -89,7 +89,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divsriv111&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divsriv111&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
   <br/>
 </details>
 
